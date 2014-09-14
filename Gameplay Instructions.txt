@@ -1,0 +1,22 @@
+IT11034414
+Gunawardana C.L.
+Weekend (SE)
+
+Lego Maze 
+_________
+
+Player must find the girl kidnapped by the enemies by going throhg several mazees and collecting door keys with in allocated time.
+Each level is unlocked when played collect the door key on levels.
+To win player must find a safe way to reach the girl through the maze in the final level.
+
+Each coin collected by the player adds 5 bonous points to the total score.
+Each door key holds 10 points.
+Reaching to the girl passes 100 points to the player score.
+
+Can load earlier saved level.
+When player finishes the game can replay to achive better scores.
+
+
+********* Important *****************
+
+Make Sure to first run the "MainMenu" Scene....
