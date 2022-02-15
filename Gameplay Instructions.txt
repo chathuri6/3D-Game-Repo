@@ -10,7 +10,7 @@ Weekend (SE)
 Lego Maze 
 _________
 
-Player must find the girl kidnapped by the enemies by going throhg several mazees and collecting door keys with in allocated time.
+Player must find the girl kidnapped by the enemies by going through several mazees and collecting door keys with in allocated time.
 Each level is unlocked when played collect the door key on levels.
 To win player must find a safe way to reach the girl through the maze in the final level.
 
